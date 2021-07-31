@@ -1,9 +1,14 @@
+Línguagem C
+
 # calculadora
-Calculadoras basicas
+
+//Calculadoras basicas
+
 #include<stdio.h>
 INT main()
 {
 //Calculadora de área e volume de cubos e retângulos
+
 int largura,altura, volume, AB, AL,Atotal, comprimento;
 
     printf("Digite a altura:\n");
